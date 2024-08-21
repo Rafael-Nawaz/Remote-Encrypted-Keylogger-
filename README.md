@@ -1,7 +1,3 @@
-Certainly! Here's a technical write-up for your GitHub README:
-
----
-
 # Remote Encrypted Keylogger
 
 ## Overview
@@ -52,7 +48,3 @@ You can set up a remote server to receive logs via HTTP POST requests. This allo
 This remote encrypted keylogger is designed to be a robust tool for secure keylogging. With the addition of stealth mode and remote logging, it becomes even more powerful and versatile. These enhancements can be particularly useful in scenarios where security and stealth are paramount, such as in controlled environments or for legitimate monitoring purposes.
 
 **Disclaimer**: This keylogger is provided for educational purposes only. Unauthorized use of keyloggers is illegal and unethical. Always ensure you have proper authorization before deploying such tools.
-
----
-
-You can paste this content directly into your GitHub README.md file.
