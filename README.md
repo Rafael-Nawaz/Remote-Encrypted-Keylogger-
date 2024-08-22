@@ -69,4 +69,11 @@ Server Setup:
 
 ![Alt text](https://github.com/Rafael-Nawaz/Remote-Encrypted-Keylogger-/blob/main/Screenshot%202024-08-21%20181746.png)
 
+![Alt text](https://github.com/Rafael-Nawaz/Remote-Encrypted-Keylogger-/blob/main/Screenshot%202024-08-21%20181835.png)
+
+![Alt text](https://github.com/Rafael-Nawaz/Remote-Encrypted-Keylogger-/blob/main/Screenshot%202024-08-21%20181920.png)
+
+![Alt text](https://github.com/Rafael-Nawaz/Remote-Encrypted-Keylogger-/blob/main/Screenshot%202024-08-21%20181932.png)
+
+
 
