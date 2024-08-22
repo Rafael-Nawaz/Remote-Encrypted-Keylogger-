@@ -67,13 +67,13 @@ Server Setup:
 
 ### DEMO:
 
-![Alt text](https://github.com/Rafael-Nawaz/Remote-Encrypted-Keylogger-/blob/main/Screenshot%202024-08-21%20181746.png)
+![Screenshot 2024-08-21 181746](https://github.com/user-attachments/assets/b2415683-9199-49b7-91b9-8f6693890d00)
 
-![Alt text](https://github.com/Rafael-Nawaz/Remote-Encrypted-Keylogger-/blob/main/Screenshot%202024-08-21%20181835.png)
+![Screenshot 2024-08-21 181835](https://github.com/user-attachments/assets/bde4e2a2-edc5-4fa2-a2a4-890b3ccba4f6)
 
-![Alt text](https://github.com/Rafael-Nawaz/Remote-Encrypted-Keylogger-/blob/main/Screenshot%202024-08-21%20181920.png)
+![Screenshot 2024-08-21 181920](https://github.com/user-attachments/assets/586ea790-b3ea-4c6c-86a0-9f768ae7bf5b)
 
-![Alt text](https://github.com/Rafael-Nawaz/Remote-Encrypted-Keylogger-/blob/main/Screenshot%202024-08-21%20181932.png)
+![Screenshot 2024-08-21 181932](https://github.com/user-attachments/assets/e62bcfb6-86aa-4fb7-9039-2c78929c0eb7)
 
 
 
