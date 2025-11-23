@@ -63,8 +63,7 @@ Server Setup:
 -Deploy the Flask app on a server (e.g., AWS, Heroku, DigitalOcean).
 -Ensure the server is accessible and has an endpoint to handle file uploads.
 
-**Disclaimer**: This keylogger is provided for educational purposes only. Unauthorized use of keyloggers is illegal and unethical. Always ensure you have proper authorization before deploying such tools.
-
+**Disclaimer**: This keylogger I made was provided for educational purposes only. Unauthorized use of keyloggers is illegal and unethical.
 ### DEMO:
 
 ![Screenshot 2024-08-21 181746](https://github.com/user-attachments/assets/b2415683-9199-49b7-91b9-8f6693890d00)
